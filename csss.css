@@ -1,0 +1,86 @@
+
+body {
+    background-color: #fbfbfb;
+    font-family: Arial, sans-serif;
+    color: rgb(12, 13, 13);
+}
+.slide_logo{
+    margin-top: 10px;
+    margin-left: 90%;
+   
+    
+    
+    
+}
+
+.slide_logo_1{
+    margin-left: 80%;
+    margin-top: -50px;
+}
+.slide_logo_2{
+/*<img  width="120" height="70" src="https://mib.gov.in/sites/default/files/logo-black12.png">
+<img  width="120" height="50" src="https://mib.gov.in/sites/all/themes/mib/images/swach-bharat.png">*/
+    margin-left: 72%;
+    margin-top: -55px;
+}
+.Topic{
+   margin-top: -40px;
+   margin-left: 70px;
+}
+.Topic-logo{
+    margin-top:5px ;
+   
+}
+/* Style for the container */
+.container {
+    background-color: #f6f1f1;
+    padding: 50px;
+    border-radius: 60px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the header */
+h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Style for the file input field */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Style for the upload button */
+
+.btn-primary {
+    background-color: #ff9900;
+    border-color: #ff9900;
+    margin-left: 42%
+}
+
+.btn-primary:hover {
+    background-color: #50c81c;
+    border-color: #32ec16;
+}
+
+/* Style for the success alerts */
+.alert-success {
+    background-color: #00cc66;
+    color: #fff;
+    border-color: #00b359;
+    margin-left: 42%
+}
+
+/* Style for the strong text inside alerts */
+.alert-success strong {
+    font-weight: bold;
+}
+.form-group{
+    align-items: center;
+}
+.hi{
+    margin-top: 15px;
+    color: black;
+}
